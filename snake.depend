@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1664137656 source:c:\users\asus\desktop\snake\src\snake.cpp
+	"Snake.h"
+
+1664058552 c:\users\asus\desktop\snake\include\snake.h
+	<windows.h>
+	<vector>
+
+1664058340 source:c:\users\asus\desktop\snake\src\food.cpp
+	"Food.h"
+
+1664058340 c:\users\asus\desktop\snake\include\food.h
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+
+1664081659 source:c:\users\asus\desktop\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	"Snake.h"
+	"Food.h"
+
