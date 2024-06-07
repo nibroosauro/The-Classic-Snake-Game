@@ -30,7 +30,7 @@ To compile and run the Snake game, you will need:
 3. **Compile tha Game**
    Compile this repository to your local machine using the following command:
 
-   `g++ -o snakegame snakegame.cpp`
+   `g++ -o snakegame main.cpp`
 4. **Run the Game**
    Run this repository to your local machine using the following command:
 
