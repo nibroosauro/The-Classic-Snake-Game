@@ -1,4 +1,4 @@
-# Snake Game in C++
+# Snake Game in C++ 🐍
 
 Welcome to my first programming project! 🎉 This is a simple Snake game implemented in C++.
 
