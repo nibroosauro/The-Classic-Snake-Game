@@ -30,5 +30,5 @@ To compile and run the Snake game, you will need:
    Run the compiled game executable with the following command:  
    `./snakegame`
 
-## Enjoy the Game! 😄  
+### Enjoy the Game! 😄  
 Have fun playing the classic Snake game and see how long you can grow your snake!
